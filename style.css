@@ -1,0 +1,201 @@
+.c1{
+  display: flex;
+  
+  }
+
+.partedecima{
+ 
+  flex-direction: row;
+}
+
+.partedebaixo{
+  display: flex;
+}
+  
+
+.q1{
+    background-color: #be6fe3;
+    border-radius: 15px;
+    margin-right: 0px;
+    width: 600px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 45px;
+    
+    
+}
+
+.v1{
+  display: flex;
+  
+}
+
+.img1{
+  border-radius: 1000px;
+  width: 55px;
+  padding: 30px;
+  padding-left: 35px;
+  padding-top:30px;
+}
+
+.nome1 {
+    margin: 0px;
+    margin-top: 36px;
+}
+ .nome2 {
+   margin: 0px;
+   margin-top: 5px;
+ }
+
+
+.texto1 {
+   padding-left: 40px;
+   font-size: 21px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.texto2 {
+    padding: 30px;
+    font-size: 15px;
+
+    
+}
+
+.q2 {
+  background-color: #808080;
+  border-radius: 15px;
+  margin-right: 30px;
+  width: 600px;
+  height: 400px;
+  margin-top: 40px;
+  margin-left: 45px;
+  
+}
+
+.v2{
+  display: flex;  
+}
+
+.img2{
+  border-radius: 1000px;
+  width: 50px;
+  padding: 30px;
+  padding-left: 35px;
+  padding-top:30px;
+}
+
+.nome3 {
+  margin: 0px;
+  margin-top: 20px;
+}
+
+.nome4 {
+  margin: 0px;
+  margin-top: 2px;
+
+ 
+}
+
+.texto3{
+  padding-left: 40px;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.texto4{
+  padding: 30px;
+  font-size: 15px;
+}
+
+
+.q3{
+  background-color: 	#48D1CC;
+  border-radius: 15px;
+  margin-right: 30px;
+  width: 600px;
+  height: 400px;
+  margin-top: 40px;
+  margin-left: 45px; 
+}
+
+.v3{
+  display: flex;
+}
+
+.img3{
+
+  border-radius: 1000px;
+  width: 40px;
+  padding: 30px;
+  padding-left: 35px;
+  padding-top:30px;
+}
+
+.nome5{
+  margin: 0px;
+  margin-top: 19px;
+}
+.nome6{
+  margin: 0px;
+  margin-top: 15px;
+}
+ 
+.texto5{
+  padding-left: 40px;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.texto6{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 30px;
+}
+
+.q4{
+  background-color:  #87ceeb;
+  border-radius: 15px;
+  margin-right: 30px;
+  width: 600px;
+  height: 400px;
+  margin-top: 40px;
+  margin-left: 45px;
+}
+
+.v4{
+  display: flex;
+}
+
+
+.img4{
+  border-radius: 1000px;
+  width: 40px;
+  padding: 30px;
+  padding-left: 35px;
+  padding-top:30px;
+}
+
+.nome7{
+  margin: 0px;
+  margin-top: 19px;
+}
+
+.nome8{
+  margin: 0px;
+  margin-top: 15px;
+}
+
+.texto7{
+  padding-left: 40px;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto8{
+  padding-top: 10px;
+  font-size: 15px;
+  padding-left: 30px;
+}
